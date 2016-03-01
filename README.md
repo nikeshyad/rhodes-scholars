@@ -1,1 +1,1 @@
-# rhodes-scholars
+The file data.csv contains information about various types of scholarship rhodes, marshall and mitchell awarded to scholars of different colleges. Analysis is done using R and plots are made of 1.Top ten rhodes scholars winnning instituiton 2005-15 2. Top ten marshalls scholars winning institution 2005-15  3. Top ten mitchell scholars winning institution 2005-15  4.Scholarship winners broken out by instituiton 2005-15.
